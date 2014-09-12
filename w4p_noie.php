@@ -34,7 +34,7 @@ function w4p_noie() //Detection browser
             }
         }
     }
-    return true;//$browserIE;
+    return $browserIE;
 }
 
 function w4p_redirect() //If browser if IE 6 or 7 - redirect to plug template
