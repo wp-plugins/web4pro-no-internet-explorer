@@ -3,7 +3,7 @@ Contributors: WEB4PRO_co
 Donate link: http://www.web4pro.net
 Tags: Kill Internet Explorer, Kill IE, No IE, No Internet Explorer, NoIE
 Requires at least: 3.5.1
-Tested up to: 4.0
+Tested up to: 4.2.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
